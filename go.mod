@@ -1,3 +1,3 @@
-module github.com/your-username/dify-go
+module github.com/Angbro/dify-go
 
 go 1.24
