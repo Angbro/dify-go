@@ -7,7 +7,7 @@ import (
 	"io"
 	"log"
 
-	dify "github.com/your-username/dify-go"
+	dify "github.com/Angbro/dify-go"
 )
 
 func main() {
