@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-go get github.com/your-username/dify-go
+go get github.com/Angbro/dify-go
 ```
 
 ## 快速开始
